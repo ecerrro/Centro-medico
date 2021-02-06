@@ -1,0 +1,120 @@
+body{
+    font-family: Arial, Helvetica;
+    font-family:serif;
+    background: white;
+    padding-top: 120px;
+    font-size: 1.2rem;
+    margin: 0%;
+    }
+    h1{
+        width: 100%;
+     height:125px;
+     background:darkcyan ;
+    text-align: center;
+    position: fixed;
+    top: -3%;
+    overflow:hidden;
+    transition: all 0.5s ease;
+    color: white;
+    line-height:150px;
+    margin: 0%;
+    
+    }
+    .menu{
+     list-style: none;
+    padding: 0;
+    background: #092327;
+    width: 100%;
+    max-width: 10000px;
+    margin: auto;
+    display: inline-block;
+    position: fixed;
+    top: 16%;
+    }
+    .menu li a{
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        display: block;
+    }
+    .menu li{
+        display: inline-block;
+        text-align: center;
+    }
+     .container{
+
+        width: 85%;
+       max-width: 850px;
+       margin: 0 auto;
+       }
+    main{
+        padding-top:5rem;
+    }
+
+    /*pie de pagina*/
+footer{
+   
+    background: #000;
+    margin: 0 auto;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 18px;
+}
+.main-container{
+    font-family: arial;
+    margin: 40px auto;
+    width: 800px;
+
+}
+table{
+    
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.lis{
+    padding-top:5rem;
+}
+.lista{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.u{
+    padding-top:5rem;
+}
+.uci{
+    font-family: arial;
+    margin: 40px auto;
+    width: 900px;
+}
+.for{
+    padding-top:5rem;
+}
+.formulario{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;   
+}
+.fa{
+    padding-top:5rem;
+
+}
+.farmacia{
+    font-family: arial;
+    margin: 40px auto;
+    width: 900px;
+}
+h2,h3{
+    color: 	#000080;
+}
+th{
+    padding: 20px;
+    text-align:left;
+    background-color:darkcyan;
+}
